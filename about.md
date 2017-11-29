@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a librarian at Boston University Libraries, workng with a variety of library technologies, metadata, and digital collections. I am currently working on a variety of data analysis and visualization projects in addtion to exploring how linked data can enhance the discovery process for library resources
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jwa at bu dot edu](mailto:jwa at bu dot edu)
