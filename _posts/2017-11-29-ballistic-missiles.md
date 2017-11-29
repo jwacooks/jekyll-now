@@ -1,7 +1,7 @@
 ---
-published: false
+title: North Korea Ballistic Missles
+layout: post
 ---
-## North Korea Ballistic Missles
 
 North Korea's latest <a href="https://nyti.ms/2k7BpgC">launch of a ballistic missile</a> sent me searching for information. Boston University Libraries have a variety of resources that you may find helpful:
 
