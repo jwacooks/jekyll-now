@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 title: Thinking about impeachment
 layout: post
 ---
