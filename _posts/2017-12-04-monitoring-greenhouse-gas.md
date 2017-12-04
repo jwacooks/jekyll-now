@@ -2,7 +2,7 @@
 title: Monitoring Greenhouse Gas Emissions
 layout: post
 ---
-I really appreciate Boston University's commitment to addressing climate change. If you haven't read it yet, check out the [Climate Action Plan](http://www.bu.edu/climateactionplan/files/2017/09/ClimateAction_Draft_Report.pdf). Also check out the BU Today article highlighting the research of two CAS professors: 
+I really appreciate Boston University's commitment to addressing climate change. If you haven't read it already, check out the [Climate Action Plan](http://www.bu.edu/climateactionplan/files/2017/09/ClimateAction_Draft_Report.pdf). Also check out the BU Today article highlighting the research of two CAS professors: 
 
 [CAS Scientists Develop ACES to Monitor Greenhouse-Gas Emissions](https://www.bu.edu/today/2017/a-fine-tuned-map-for-co2/)
 
