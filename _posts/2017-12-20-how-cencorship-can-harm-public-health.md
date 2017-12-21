@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  POV: How Censorshipi Can Harm Public Health
+title:  How Censorship Can Harm Public Health
 ---
 Interesting <a href="http://www.bu.edu/today/2017/pov-how-censorship-can-harm-public-health/">Point of View (POV) article in BU Today by Elizabeth Sommers and Sandro Galea</a> responding to the the recent directive to the (CDC) by the Trump administration that bars the agency from using seven words and phrases in CDC budget materials and official documents.
 
