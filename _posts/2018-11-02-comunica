@@ -2,6 +2,8 @@
 layout: post
 title:  Testing Comunica
 ---
+**Testing Comunica**
+
 <script src="http://rdf.js.org/comunica-browser/versions/1/packages/actor-init-sparql/comunica-browser.js"></script>
 <script language="JavaScript">
   Comunica.newEngine().query('SELECT * { ?s ?p <http://dbpedia.org/resource/Belgium>. ?s ?p ?o } LIMIT 100',
